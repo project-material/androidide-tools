@@ -6,15 +6,15 @@
     "build_tools": {
 
         "x86_64": {
-            "_35_0_0": "https://github.com/project-material/androidide-tools/releases/download/sdk/build-tools.tar.xz"
+            "_35_0_2": "https://github.com/project-material/androidide-tools/releases/download/sdk/build-tools.tar.xz"
         },
 
         "aarch64": {
-            "_35_0_0": "https://github.com/project-material/androidide-tools/releases/download/sdk/build-tools.tar.xz"
+            "_35_0_2": "https://github.com/project-material/androidide-tools/releases/download/sdk/build-tools.tar.xz"
         },
 
         "arm" : {
-            "_35_0_0": "https://github.com/project-material/androidide-tools/releases/download/sdk/build-tools.tar.xz"
+            "_35_0_2": "https://github.com/project-material/androidide-tools/releases/download/sdk/build-tools.tar.xz"
         }
     },
 
@@ -22,15 +22,15 @@
     "platform_tools": {
 
         "x86_64": {
-            "_35_0_0": "https://github.com/project-material/androidide-tools/releases/download/sdk/platform-tools.tar.xz"
+            "_35_0_2": "https://github.com/project-material/androidide-tools/releases/download/sdk/platform-tools.tar.xz"
         },
 
         "aarch64": {
-            "_35_0_0": "https://github.com/project-material/androidide-tools/releases/download/sdk/platform-tools.tar.xz"
+            "_35_0_2": "https://github.com/project-material/androidide-tools/releases/download/sdk/platform-tools.tar.xz"
         },
 
         "arm": {
-            "_35_0_0": "https://github.com/project-material/androidide-tools/releases/download/sdk/platform-tools.tar.xz"
+            "_35_0_2": "https://github.com/project-material/androidide-tools/releases/download/sdk/platform-tools.tar.xz"
         }
     }
 }
